@@ -27,4 +27,3 @@ client.connect(BROKER, PORT, 60)
 
 print("En attente d'image...")
 client.loop_forever()
-
